@@ -13,9 +13,8 @@ Hey there! 👋
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritz963&theme=catppuccin_mocha&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ritz963&layout=compact&langs_count=8&theme=atppuccin_mocha"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritz963&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </a>
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ritz963&theme=catppuccin_mocha&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritz963&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
