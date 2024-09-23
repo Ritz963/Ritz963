@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hey there! 👋<br>🔬 Researching: I'm diving into the world of corporate influence, working on a project to predict companies' lobbying efforts using data like revenue, sector, and environmental consciousness.<br><br>🚀 Always Exploring: Currently diving deeper into machine learning and data science to enhance my research projects.<br><br>🖥️ Tech Talk: Java is my go-to language, and I’m always happy to chat about code structure, design patterns, or anything related!<br><br>🌍 Fun Fact: I spent 3 years studying Chinese, so if you want to throw some Mandarin my way, I'm game!
+Hey there! 👋 <br>
+[![](https://visitcount.itsvg.in/api?id=Ritz963&icon=0&color=9)](https://visitcount.itsvg.in)
+<br>🔬 Researching: I'm diving into the world of corporate influence, working on a project to predict companies' lobbying efforts using data like revenue, sector, and environmental consciousness.<br><br>🚀 Always Exploring: Currently diving deeper into machine learning and data science to enhance my research projects.<br><br>🖥️ Tech Talk: Java is my go-to language, and I’m always happy to chat about code structure, design patterns, or anything related!<br><br>🌍 Fun Fact: I spent 3 years studying Chinese, so if you want to throw some Mandarin my way, I'm game!
 
 
 ## 🌐 Socials:
@@ -10,8 +12,5 @@ Hey there! 👋<br>🔬 Researching: I'm diving into the world of corporate infl
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ritz963&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritz963&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ritz963&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
