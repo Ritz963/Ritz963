@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hey there! 👋 <br>
 [![](https://visitcount.itsvg.in/api?id=Ritz963&icon=0&color=9)](https://visitcount.itsvg.in)
+Hey there! 👋 <br>
 <br>🔬 Researching: I'm diving into the world of corporate influence, working on a project to predict companies' lobbying efforts using data like revenue, sector, and environmental consciousness.<br><br>🚀 Always Exploring: Currently diving deeper into machine learning and data science to enhance my research projects.<br><br>🖥️ Tech Talk: Java is my go-to language, and I’m always happy to chat about code structure, design patterns, or anything related!<br><br>🌍 Fun Fact: I spent 3 years studying Chinese, so if you want to throw some Mandarin my way, I'm game!
 
 
