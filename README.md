@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=008080&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritvik-thakur)  <br>
-<br>🔬 Researching: I'm diving into the world of corporate influence, working on a project to predict companies' lobbying efforts using data like revenue, sector, and environmental consciousness.<br><br>🚀 Always Exploring: Currently diving deeper into machine learning and data science to enhance my research projects.<br><br>🖥️ Tech Talk: Java is my go-to language, and I’m always happy to chat about code structure, design patterns, or anything related!<br><br>🌍 Fun Fact: I spent 3 years studying Chinese, so if you want to throw some Mandarin my way, I'm game!
+<br>🔬 Researching: I'm diving into the world of corporate influence, working on a project to predict companies' lobbying efforts using data like revenue, sector, and environmental consciousness.<br><br>🚀 Always Exploring: Currently diving deeper into machine learning and data science to enhance my research projects.<br><br>🖥️ Tech Talk: Java is my go-to language, and I’m always happy to chat about code structure, design patterns, or anything related!<br><br>🌍 Fun Fact: I spent 3 years studying Chinese in High School
 
 
 # 💻 Tech Stack:
